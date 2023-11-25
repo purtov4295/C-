@@ -1,0 +1,14 @@
+C:\Users\purto\C#\lab1\bin\Debug\net7.0\lab1.exe
+c:\Users\purto\C#\lab1\bin\Debug\net7.0\lab1.deps.json
+c:\Users\purto\C#\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+C:\Users\purto\C#\lab1\bin\Debug\net7.0\lab1.dll
+C:\Users\purto\C#\lab1\bin\Debug\net7.0\lab1.pdb
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.dll
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\refint\lab1.dll
+C:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.pdb
+c:\Users\purto\C#\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+c:\Users\purto\C#\lab1\obj\Debug\net7.0\ref\lab1.dll
